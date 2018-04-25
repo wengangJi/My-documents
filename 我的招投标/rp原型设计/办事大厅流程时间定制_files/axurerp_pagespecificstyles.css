@@ -1,0 +1,2531 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../办事大厅流程时间定制_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:42px;
+    top:175px;
+    width:151px;
+    height:564px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:157px;
+    height:570px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:274px;
+    width:147px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../办事大厅流程时间定制_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:43px;
+    top:749px;
+    width:922px;
+    height:10px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:16px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../办事大厅流程时间定制_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:43px;
+    top:760px;
+    width:922px;
+    height:39px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:45px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:131px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../办事大厅流程时间定制_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:43px;
+    top:175px;
+    width:150px;
+    height:29px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:35px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_line {
+    background-image: url('../办事大厅流程时间定制_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:534px;
+}
+
+.u14 {
+    position:absolute;
+    left:198px;
+    top:205px;
+    width:10px;
+    height:534px;
+    
+}
+
+.u15_line {
+    background-image: url('../办事大厅流程时间定制_files/u15_line.png');
+}
+
+.u15_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:758px;
+    height:3px;
+}
+
+.u15 {
+    position:absolute;
+    left:203px;
+    top:200px;
+    width:758px;
+    height:10px;
+    
+}
+
+.u16_line {
+    background-image: url('../办事大厅流程时间定制_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:534px;
+}
+
+.u16 {
+    position:absolute;
+    left:956px;
+    top:205px;
+    width:10px;
+    height:534px;
+    
+}
+
+.u17_line {
+    background-image: url('../办事大厅流程时间定制_files/u17_line.png');
+}
+
+.u17_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:758px;
+    height:3px;
+}
+
+.u17 {
+    position:absolute;
+    left:204px;
+    top:734px;
+    width:758px;
+    height:10px;
+    
+}
+
+#u18 {
+    position:absolute;
+    left:45px;
+    top:207px;
+    width:146px;
+    height:533px;
+    overflow:hidden;
+}
+
+#pd0u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:146px;
+    height:533px;
+    
+}
+
+.u19_normal {
+    background-image: url('../办事大厅流程时间定制_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:-1px;
+    top:-32px;
+    width:146px;
+    height:558px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:152px;
+    height:564px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:271px;
+    width:142px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../办事大厅流程时间定制_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:3px;
+    top:422px;
+    width:140px;
+    height:25px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:31px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:136px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../办事大厅流程时间定制_files/u21_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:3px;
+    top:391px;
+    width:140px;
+    height:25px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:31px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:136px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../办事大厅流程时间定制_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:3px;
+    top:453px;
+    width:140px;
+    height:28px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:34px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:136px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../办事大厅流程时间定制_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:1px;
+    top:4px;
+    width:142px;
+    height:377px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:383px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:180px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../办事大厅流程时间定制_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:138px;
+    height:25px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:31px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u33_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:110px;
+    height:20px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:26px;
+}
+
+.u34 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u36_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u36_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u37 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u39_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u39_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u40 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u42_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u42_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:110px;
+    height:20px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:26px;
+}
+
+.u43 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u45_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u45_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u46 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u48_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u48_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u49 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u51_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u51_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u52 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u54_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u54_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u55 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u57_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u57_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:6px;
+    height:20px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:12px;
+    height:26px;
+}
+
+.u58 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+#u59 {
+    position:absolute;
+    left:48px;
+    top:208px;
+    width:142px;
+    height:531px;
+    overflow:hidden;
+}
+
+#pd0u59 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:142px;
+    height:531px;
+    
+}
+
+.u60_normal {
+    background-image: url('../办事大厅流程时间定制_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:-1px;
+    top:-32px;
+    width:138px;
+    height:556px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:562px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:270px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../办事大厅流程时间定制_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:3px;
+    top:422px;
+    width:128px;
+    height:25px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:31px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:124px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../办事大厅流程时间定制_files/u62_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:3px;
+    top:391px;
+    width:128px;
+    height:25px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:31px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:124px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../办事大厅流程时间定制_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:3px;
+    top:453px;
+    width:128px;
+    height:28px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:34px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:124px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../办事大厅流程时间定制_files/u66_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:3px;
+    top:486px;
+    width:128px;
+    height:28px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:34px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:124px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../办事大厅流程时间定制_files/u70_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:3px;
+    top:4px;
+    width:134px;
+    height:346px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:140px;
+    height:352px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:165px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../办事大厅流程时间定制_files/u62_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:5px;
+    top:6px;
+    width:128px;
+    height:25px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:31px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:124px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../办事大厅流程时间定制_files/u62_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:3px;
+    top:360px;
+    width:128px;
+    height:25px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:31px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:124px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_selected {
+    background-image: url('../办事大厅流程时间定制_files/u78_selected.png');
+}
+
+.u78_normal {
+    background-image: url('../办事大厅流程时间定制_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px;
+}
+
+#u78_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:9px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u80_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u81 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u83_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u83_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u84 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u86_selected {
+    background-image: url('../办事大厅流程时间定制_files/u78_selected.png');
+}
+
+.u86_normal {
+    background-image: url('../办事大厅流程时间定制_files/u78_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px;
+}
+
+#u86_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:9px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u88_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u89 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u91_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u91_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u92 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u94_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u94_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u95 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u96_normal {
+    background-image: url('../办事大厅流程时间定制_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:446px;
+    top:182px;
+    width:19px;
+    height:16px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:22px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:15px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:471px;
+    top:182px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../办事大厅流程时间定制_files/u99_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:537px;
+    top:182px;
+    width:18px;
+    height:16px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:22px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:565px;
+    top:183px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../办事大厅流程时间定制_files/u102_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:622px;
+    top:182px;
+    width:18px;
+    height:16px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:22px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:650px;
+    top:183px;
+    width:57px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../办事大厅流程时间定制_files/u105_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:710px;
+    top:182px;
+    width:18px;
+    height:16px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:22px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:738px;
+    top:183px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../办事大厅流程时间定制_files/u108_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:218px;
+    top:182px;
+    width:18px;
+    height:16px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:22px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110 {
+    position:absolute;
+    left:246px;
+    top:183px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../办事大厅流程时间定制_files/u111_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:292px;
+    top:182px;
+    width:18px;
+    height:16px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:22px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:320px;
+    top:183px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../办事大厅流程时间定制_files/u114_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:367px;
+    top:182px;
+    width:18px;
+    height:16px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:22px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116 {
+    position:absolute;
+    left:395px;
+    top:183px;
+    width:45px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../办事大厅流程时间定制_files/u117_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:218px;
+    top:278px;
+    width:728px;
+    height:374px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:734px;
+    height:380px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:179px;
+    width:724px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../办事大厅流程时间定制_files/u119_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:218px;
+    top:250px;
+    width:117px;
+    height:28px;
+}
+
+#u119_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:117px;
+    height:28px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121 {
+    position:absolute;
+    left:225px;
+    top:299px;
+    width:63px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122 {
+    position:absolute;
+    left:489px;
+    top:297px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123 {
+    position:absolute;
+    left:698px;
+    top:299px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:292px;
+    top:297px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u125 {
+    position:absolute;
+    left:534px;
+    top:296px;
+    width:131px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u126 {
+    position:absolute;
+    left:750px;
+    top:297px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u127 {
+    position:absolute;
+    left:226px;
+    top:340px;
+    width:55px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:293px;
+    top:338px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u129_line {
+    background-image: url('../办事大厅流程时间定制_files/u129_line.png');
+}
+
+.u129_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:728px;
+    height:3px;
+}
+
+.u129 {
+    position:absolute;
+    left:218px;
+    top:370px;
+    width:728px;
+    height:10px;
+    
+}
+
+.u130 {
+    position:absolute;
+    left:229px;
+    top:397px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131 {
+    position:absolute;
+    left:308px;
+    top:393px;
+    width:163px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u132 {
+    position:absolute;
+    left:224px;
+    top:593px;
+    width:614px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133 {
+    position:absolute;
+    left:229px;
+    top:448px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134 {
+    position:absolute;
+    left:308px;
+    top:444px;
+    width:163px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u135 {
+    position:absolute;
+    left:488px;
+    top:448px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136 {
+    position:absolute;
+    left:552px;
+    top:444px;
+    width:113px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u137 {
+    position:absolute;
+    left:678px;
+    top:450px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138 {
+    position:absolute;
+    left:754px;
+    top:446px;
+    width:176px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u139 {
+    position:absolute;
+    left:490px;
+    top:399px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140 {
+    position:absolute;
+    left:552px;
+    top:396px;
+    width:113px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u141 {
+    position:absolute;
+    left:506px;
+    top:339px;
+    width:72px;
+    height:21px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u142 {
+    position:absolute;
+    left:446px;
+    top:507px;
+    width:72px;
+    height:21px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u143 {
+    position:absolute;
+    left:552px;
+    top:507px;
+    width:72px;
+    height:21px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u144_normal {
+    background-image: url('../办事大厅流程时间定制_files/u144_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:43px;
+    top:41px;
+    width:922px;
+    height:27px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:33px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../办事大厅流程时间定制_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:43px;
+    top:69px;
+    width:922px;
+    height:71px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:77px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:125px;
+    top:88px;
+    width:586px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149 {
+    position:absolute;
+    left:711px;
+    top:90px;
+    width:141px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'宋体';
+    font-size: 14px;
+    color:#6B6B6B;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u150_container {
+    position:absolute;
+    left:865px;
+    top:88px;
+    width:54px;
+    height:27px;
+}
+
+#u150_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:54px;
+    height:27px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152 {
+    position:absolute;
+    left:761px;
+    top:45px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153 {
+    position:absolute;
+    left:797px;
+    top:45px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../办事大厅流程时间定制_files/u154_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:745px;
+    top:41px;
+    width:219px;
+    height:22px;
+}
+
+#u154_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:219px;
+    height:22px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:215px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../办事大厅流程时间定制_files/u156_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:43px;
+    top:141px;
+    width:922px;
+    height:31px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:37px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:435px;
+    top:149px;
+    width:105px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159 {
+    position:absolute;
+    left:101px;
+    top:149px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:888px;
+    top:148px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161 {
+    position:absolute;
+    left:811px;
+    top:148px;
+    width:81px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162 {
+    position:absolute;
+    left:733px;
+    top:148px;
+    width:81px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163 {
+    position:absolute;
+    left:153px;
+    top:149px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:543px;
+    top:148px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165 {
+    position:absolute;
+    left:327px;
+    top:149px;
+    width:99px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166 {
+    position:absolute;
+    left:618px;
+    top:148px;
+    width:96px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../办事大厅流程时间定制_files/u167_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:723px;
+    top:142px;
+    width:79px;
+    height:30px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:85px;
+    height:36px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:75px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169 {
+    position:absolute;
+    left:231px;
+    top:149px;
+    width:99px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
