@@ -1,0 +1,2408 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../系统总体集成方案_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:239px;
+    top:142px;
+    width:126px;
+    height:136px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:126px;
+    height:136px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:60px;
+    width:122px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:514px;
+    top:229px;
+    width:26px;
+    height:33px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:441px;
+    top:234px;
+    width:85px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../系统总体集成方案_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:483px;
+    top:141px;
+    width:26px;
+    height:35px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:35px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:481px;
+    top:121px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../系统总体集成方案_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:545px;
+    top:150px;
+    width:36px;
+    height:18px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:36px;
+    height:18px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:542px;
+    top:121px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../系统总体集成方案_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:338px;
+    top:161px;
+    width:143px;
+    height:48px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:143px;
+    height:48px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:555px;
+    top:229px;
+    width:26px;
+    height:33px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15c0 {
+    background-image: url('../系统总体集成方案_files/u15c0.png');
+}
+
+.u15c0 {
+    position:absolute;
+    left:484px;
+    top:169px;
+    width:16px;
+    height:20px;
+}
+
+.u15c1 {
+    background-image: url('../系统总体集成方案_files/u15c1.png');
+}
+
+.u15c1 {
+    position:absolute;
+    left:484px;
+    top:169px;
+    width:20px;
+    height:68px;
+}
+
+.u15c2 {
+    background-image: url('../系统总体集成方案_files/u15c2.png');
+}
+
+.u15c2 {
+    position:absolute;
+    left:484px;
+    top:217px;
+    width:41px;
+    height:20px;
+}
+
+.u15c3 {
+    background-image: url('../系统总体集成方案_files/u15c3.png');
+}
+
+.u15c3 {
+    position:absolute;
+    left:505px;
+    top:217px;
+    width:20px;
+    height:22px;
+}
+
+.u16 {
+    position:absolute;
+    left:-52px;
+    top:30px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17c0 {
+    background-image: url('../系统总体集成方案_files/u17c0.png');
+}
+
+.u17c0 {
+    position:absolute;
+    left:558px;
+    top:163px;
+    width:15px;
+    height:20px;
+}
+
+.u17c1 {
+    background-image: url('../系统总体集成方案_files/u17c1.png');
+}
+
+.u17c1 {
+    position:absolute;
+    left:553px;
+    top:163px;
+    width:20px;
+    height:61px;
+}
+
+.u17c2 {
+    background-image: url('../系统总体集成方案_files/u17c2.png');
+}
+
+.u17c2 {
+    position:absolute;
+    left:520px;
+    top:204px;
+    width:53px;
+    height:20px;
+}
+
+.u17c3 {
+    background-image: url('../系统总体集成方案_files/u17c3.png');
+}
+
+.u17c3 {
+    position:absolute;
+    left:520px;
+    top:204px;
+    width:20px;
+    height:24px;
+}
+
+.u18 {
+    position:absolute;
+    left:-50px;
+    top:33px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19c0 {
+    background-image: url('../系统总体集成方案_files/u19c0.png');
+}
+
+.u19c0 {
+    position:absolute;
+    left:538px;
+    top:236px;
+    width:25px;
+    height:20px;
+}
+
+.u20 {
+    position:absolute;
+    left:-44px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../系统总体集成方案_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:638px;
+    top:150px;
+    width:70px;
+    height:72px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:72px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../系统总体集成方案_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:591px;
+    top:286px;
+    width:42px;
+    height:62px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:42px;
+    height:62px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:526px;
+    top:327px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../系统总体集成方案_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:783px;
+    top:190px;
+    width:39px;
+    height:40px;
+}
+
+#u26_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:39px;
+    height:40px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:787px;
+    top:230px;
+    width:47px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29c0 {
+    background-image: url('../系统总体集成方案_files/u29c0.png');
+}
+
+.u29c0 {
+    position:absolute;
+    left:653px;
+    top:219px;
+    width:20px;
+    height:109px;
+}
+
+.u29c1 {
+    background-image: url('../系统总体集成方案_files/u29c1.png');
+}
+
+.u29c1 {
+    position:absolute;
+    left:626px;
+    top:308px;
+    width:47px;
+    height:20px;
+}
+
+.u30 {
+    position:absolute;
+    left:-50px;
+    top:56px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31c0 {
+    background-image: url('../系统总体集成方案_files/u31c0.png');
+}
+
+.u31c0 {
+    position:absolute;
+    left:521px;
+    top:262px;
+    width:20px;
+    height:66px;
+}
+
+.u31c1 {
+    background-image: url('../系统总体集成方案_files/u31c1.png');
+}
+
+.u31c1 {
+    position:absolute;
+    left:521px;
+    top:308px;
+    width:73px;
+    height:20px;
+}
+
+.u32 {
+    position:absolute;
+    left:-46px;
+    top:44px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33c0 {
+    background-image: url('../系统总体集成方案_files/u33c0.png');
+}
+
+.u33c0 {
+    position:absolute;
+    left:613px;
+    top:299px;
+    width:20px;
+    height:22px;
+}
+
+.u33c1 {
+    background-image: url('../系统总体集成方案_files/u33c1.png');
+}
+
+.u33c1 {
+    position:absolute;
+    left:613px;
+    top:299px;
+    width:202px;
+    height:20px;
+}
+
+.u33c2 {
+    background-image: url('../系统总体集成方案_files/u33c2.png');
+}
+
+.u33c2 {
+    position:absolute;
+    left:795px;
+    top:228px;
+    width:20px;
+    height:91px;
+}
+
+.u34 {
+    position:absolute;
+    left:76px;
+    top:-16px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../系统总体集成方案_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:885px;
+    top:106px;
+    width:210px;
+    height:189px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:210px;
+    height:189px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:86px;
+    width:206px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37c0 {
+    background-image: url('../系统总体集成方案_files/u37c0.png');
+}
+
+.u37c0 {
+    position:absolute;
+    left:821px;
+    top:202px;
+    width:75px;
+    height:20px;
+}
+
+.u37c1 {
+    background-image: url('../系统总体集成方案_files/u37c1.png');
+}
+
+.u37c1 {
+    position:absolute;
+    left:876px;
+    top:202px;
+    width:20px;
+    height:64px;
+}
+
+.u38 {
+    position:absolute;
+    left:6px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../系统总体集成方案_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:214px;
+    top:350px;
+    width:864px;
+    height:7px;
+}
+
+#u39_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:864px;
+    height:7px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:860px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:441px;
+    top:286px;
+    width:26px;
+    height:33px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:397px;
+    top:296px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44c0 {
+    background-image: url('../系统总体集成方案_files/u44c0.png');
+}
+
+.u44c0 {
+    position:absolute;
+    left:464px;
+    top:287px;
+    width:24px;
+    height:20px;
+}
+
+.u44c1 {
+    background-image: url('../系统总体集成方案_files/u44c1.png');
+}
+
+.u44c1 {
+    position:absolute;
+    left:468px;
+    top:287px;
+    width:20px;
+    height:41px;
+}
+
+.u44c2 {
+    background-image: url('../系统总体集成方案_files/u44c2.png');
+}
+
+.u44c2 {
+    position:absolute;
+    left:468px;
+    top:308px;
+    width:135px;
+    height:20px;
+}
+
+.u44c3 {
+    background-image: url('../系统总体集成方案_files/u44c3.png');
+}
+
+.u44c3 {
+    position:absolute;
+    left:583px;
+    top:310px;
+    width:20px;
+    height:18px;
+}
+
+.u45 {
+    position:absolute;
+    left:4px;
+    top:13px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../系统总体集成方案_files/u26_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:516px;
+    top:485px;
+    width:39px;
+    height:40px;
+}
+
+#u46_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:39px;
+    height:40px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../系统总体集成方案_files/u5_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:212px;
+    top:404px;
+    width:26px;
+    height:35px;
+}
+
+#u48_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:35px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:214px;
+    top:369px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../系统总体集成方案_files/u8_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:297px;
+    top:390px;
+    width:36px;
+    height:18px;
+}
+
+#u51_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:36px;
+    height:18px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:288px;
+    top:369px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../系统总体集成方案_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:215px;
+    top:467px;
+    width:46px;
+    height:40px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:46px;
+    height:40px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:214px;
+    top:509px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:328px;
+    top:454px;
+    width:26px;
+    height:33px;
+}
+
+#u57_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:338px;
+    top:426px;
+    width:100px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60c0 {
+    background-image: url('../系统总体集成方案_files/u60c0.png');
+}
+
+.u60c0 {
+    position:absolute;
+    left:225px;
+    top:416px;
+    width:80px;
+    height:20px;
+}
+
+.u60c1 {
+    background-image: url('../系统总体集成方案_files/u60c1.png');
+}
+
+.u60c1 {
+    position:absolute;
+    left:285px;
+    top:416px;
+    width:20px;
+    height:71px;
+}
+
+.u60c2 {
+    background-image: url('../系统总体集成方案_files/u60c2.png');
+}
+
+.u60c2 {
+    position:absolute;
+    left:285px;
+    top:467px;
+    width:51px;
+    height:20px;
+}
+
+.u61 {
+    position:absolute;
+    left:16px;
+    top:3px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62c0 {
+    background-image: url('../系统总体集成方案_files/u62c0.png');
+}
+
+.u62c0 {
+    position:absolute;
+    left:305px;
+    top:402px;
+    width:20px;
+    height:82px;
+}
+
+.u62c1 {
+    background-image: url('../系统总体集成方案_files/u62c1.png');
+}
+
+.u62c1 {
+    position:absolute;
+    left:305px;
+    top:464px;
+    width:29px;
+    height:20px;
+}
+
+.u63 {
+    position:absolute;
+    left:-50px;
+    top:34px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64c0 {
+    background-image: url('../系统总体集成方案_files/u64c0.png');
+}
+
+.u64c0 {
+    position:absolute;
+    left:260px;
+    top:473px;
+    width:82px;
+    height:20px;
+}
+
+.u64c1 {
+    background-image: url('../系统总体集成方案_files/u64c1.png');
+}
+
+.u64c1 {
+    position:absolute;
+    left:322px;
+    top:477px;
+    width:20px;
+    height:16px;
+}
+
+.u65 {
+    position:absolute;
+    left:-15px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../系统总体集成方案_files/u23_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:441px;
+    top:467px;
+    width:42px;
+    height:62px;
+}
+
+#u66_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:42px;
+    height:62px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_normal {
+    background-image: url('../系统总体集成方案_files/u23_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:584px;
+    top:467px;
+    width:42px;
+    height:62px;
+}
+
+#u68_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:42px;
+    height:62px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:23px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../系统总体集成方案_files/u26_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:680px;
+    top:485px;
+    width:39px;
+    height:40px;
+}
+
+#u70_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:39px;
+    height:40px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:438px;
+    top:531px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:684px;
+    top:528px;
+    width:47px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:518px;
+    top:529px;
+    width:47px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:583px;
+    top:530px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76c0 {
+    background-image: url('../系统总体集成方案_files/u76c0.png');
+}
+
+.u76c0 {
+    position:absolute;
+    left:350px;
+    top:456px;
+    width:24px;
+    height:20px;
+}
+
+.u76c1 {
+    background-image: url('../系统总体集成方案_files/u76c1.png');
+}
+
+.u76c1 {
+    position:absolute;
+    left:354px;
+    top:456px;
+    width:20px;
+    height:53px;
+}
+
+.u76c2 {
+    background-image: url('../系统总体集成方案_files/u76c2.png');
+}
+
+.u76c2 {
+    position:absolute;
+    left:354px;
+    top:489px;
+    width:96px;
+    height:20px;
+}
+
+.u76c3 {
+    background-image: url('../系统总体集成方案_files/u76c3.png');
+}
+
+.u76c3 {
+    position:absolute;
+    left:430px;
+    top:489px;
+    width:20px;
+    height:17px;
+}
+
+.u77 {
+    position:absolute;
+    left:-22px;
+    top:25px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78c0 {
+    background-image: url('../系统总体集成方案_files/u78c0.png');
+}
+
+.u78c0 {
+    position:absolute;
+    left:481px;
+    top:490px;
+    width:45px;
+    height:20px;
+}
+
+.u79 {
+    position:absolute;
+    left:-34px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80c0 {
+    background-image: url('../系统总体集成方案_files/u80c0.png');
+}
+
+.u80c0 {
+    position:absolute;
+    left:552px;
+    top:490px;
+    width:43px;
+    height:20px;
+}
+
+.u80c1 {
+    background-image: url('../系统总体集成方案_files/u80c1.png');
+}
+
+.u80c1 {
+    position:absolute;
+    left:575px;
+    top:495px;
+    width:20px;
+    height:15px;
+}
+
+.u81 {
+    position:absolute;
+    left:-35px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82c0 {
+    background-image: url('../系统总体集成方案_files/u82c0.png');
+}
+
+.u82c0 {
+    position:absolute;
+    left:625px;
+    top:488px;
+    width:66px;
+    height:20px;
+}
+
+.u82c1 {
+    background-image: url('../系统总体集成方案_files/u82c1.png');
+}
+
+.u82c1 {
+    position:absolute;
+    left:671px;
+    top:493px;
+    width:20px;
+    height:15px;
+}
+
+.u83 {
+    position:absolute;
+    left:-24px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../系统总体集成方案_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:884px;
+    top:361px;
+    width:185px;
+    height:202px;
+}
+
+#u84_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:185px;
+    height:202px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:93px;
+    width:181px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86c0 {
+    background-image: url('../系统总体集成方案_files/u86c0.png');
+}
+
+.u86c0 {
+    position:absolute;
+    left:731px;
+    top:510px;
+    width:156px;
+    height:20px;
+}
+
+.u86c1 {
+    background-image: url('../系统总体集成方案_files/u86c1.png');
+}
+
+.u86c1 {
+    position:absolute;
+    left:731px;
+    top:494px;
+    width:20px;
+    height:36px;
+}
+
+.u86c2 {
+    background-image: url('../系统总体集成方案_files/u86c2.png');
+}
+
+.u86c2 {
+    position:absolute;
+    left:715px;
+    top:494px;
+    width:36px;
+    height:20px;
+}
+
+.u87 {
+    position:absolute;
+    left:-140px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../系统总体集成方案_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:478px;
+    top:372px;
+    width:67px;
+    height:59px;
+}
+
+#u88_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:67px;
+    height:59px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:63px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:579px;
+    top:380px;
+    width:26px;
+    height:33px;
+}
+
+#u90_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:620px;
+    top:380px;
+    width:26px;
+    height:33px;
+}
+
+#u92_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:579px;
+    top:413px;
+    width:85px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:478px;
+    top:434px;
+    width:67px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../系统总体集成方案_files/u5_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:755px;
+    top:389px;
+    width:26px;
+    height:35px;
+}
+
+#u96_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:35px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:790px;
+    top:400px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../系统总体集成方案_files/u8_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:752px;
+    top:361px;
+    width:36px;
+    height:18px;
+}
+
+#u99_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:36px;
+    height:18px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:788px;
+    top:365px;
+    width:61px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102c0 {
+    background-image: url('../系统总体集成方案_files/u102c0.png');
+}
+
+.u102c0 {
+    position:absolute;
+    left:681px;
+    top:361px;
+    width:74px;
+    height:20px;
+}
+
+.u102c1 {
+    background-image: url('../系统总体集成方案_files/u102c1.png');
+}
+
+.u102c1 {
+    position:absolute;
+    left:681px;
+    top:361px;
+    width:20px;
+    height:43px;
+}
+
+.u102c2 {
+    background-image: url('../系统总体集成方案_files/u102c2.png');
+}
+
+.u102c2 {
+    position:absolute;
+    left:641px;
+    top:384px;
+    width:60px;
+    height:20px;
+}
+
+.u103 {
+    position:absolute;
+    left:-110px;
+    top:-4px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104c0 {
+    background-image: url('../系统总体集成方案_files/u104c0.png');
+}
+
+.u104c0 {
+    position:absolute;
+    left:712px;
+    top:398px;
+    width:43px;
+    height:20px;
+}
+
+.u104c1 {
+    background-image: url('../系统总体集成方案_files/u104c1.png');
+}
+
+.u104c1 {
+    position:absolute;
+    left:712px;
+    top:390px;
+    width:20px;
+    height:28px;
+}
+
+.u104c2 {
+    background-image: url('../系统总体集成方案_files/u104c2.png');
+}
+
+.u104c2 {
+    position:absolute;
+    left:632px;
+    top:390px;
+    width:100px;
+    height:20px;
+}
+
+.u104c3 {
+    background-image: url('../系统总体集成方案_files/u104c3.png');
+}
+
+.u104c3 {
+    position:absolute;
+    left:632px;
+    top:390px;
+    width:20px;
+    height:15px;
+}
+
+.u105 {
+    position:absolute;
+    left:-101px;
+    top:-16px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106c0 {
+    background-image: url('../系统总体集成方案_files/u106c0.png');
+}
+
+.u106c0 {
+    position:absolute;
+    left:587px;
+    top:419px;
+    width:20px;
+    height:49px;
+}
+
+.u106c1 {
+    background-image: url('../系统总体集成方案_files/u106c1.png');
+}
+
+.u106c1 {
+    position:absolute;
+    left:588px;
+    top:419px;
+    width:19px;
+    height:20px;
+}
+
+.u107 {
+    position:absolute;
+    left:-50px;
+    top:-28px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108c0 {
+    background-image: url('../系统总体集成方案_files/u108c0.png');
+}
+
+.u108c0 {
+    position:absolute;
+    left:545px;
+    top:462px;
+    width:43px;
+    height:20px;
+}
+
+.u108c1 {
+    background-image: url('../系统总体集成方案_files/u108c1.png');
+}
+
+.u108c1 {
+    position:absolute;
+    left:545px;
+    top:427px;
+    width:20px;
+    height:55px;
+}
+
+.u108c2 {
+    background-image: url('../系统总体集成方案_files/u108c2.png');
+}
+
+.u108c2 {
+    position:absolute;
+    left:530px;
+    top:427px;
+    width:35px;
+    height:20px;
+}
+
+.u109 {
+    position:absolute;
+    left:-79px;
+    top:-22px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:655px;
+    top:339px;
+    width:26px;
+    height:33px;
+}
+
+#u110_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:680px;
+    top:339px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113c0 {
+    background-image: url('../系统总体集成方案_files/u113c0.png');
+}
+
+.u113c0 {
+    position:absolute;
+    left:511px;
+    top:363px;
+    width:68px;
+    height:20px;
+}
+
+.u113c1 {
+    background-image: url('../系统总体集成方案_files/u113c1.png');
+}
+
+.u113c1 {
+    position:absolute;
+    left:559px;
+    top:348px;
+    width:20px;
+    height:35px;
+}
+
+.u113c2 {
+    background-image: url('../系统总体集成方案_files/u113c2.png');
+}
+
+.u113c2 {
+    position:absolute;
+    left:559px;
+    top:348px;
+    width:108px;
+    height:20px;
+}
+
+.u113c3 {
+    background-image: url('../系统总体集成方案_files/u113c3.png');
+}
+
+.u113c3 {
+    position:absolute;
+    left:647px;
+    top:349px;
+    width:20px;
+    height:19px;
+}
+
+.u114 {
+    position:absolute;
+    left:16px;
+    top:-23px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115c0 {
+    background-image: url('../系统总体集成方案_files/u115c0.png');
+}
+
+.u115c0 {
+    position:absolute;
+    left:632px;
+    top:317px;
+    width:49px;
+    height:20px;
+}
+
+.u115c1 {
+    background-image: url('../系统总体集成方案_files/u115c1.png');
+}
+
+.u115c1 {
+    position:absolute;
+    left:661px;
+    top:317px;
+    width:20px;
+    height:24px;
+}
+
+.u116 {
+    position:absolute;
+    left:-28px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117 {
+    position:absolute;
+    left:394px;
+    top:590px;
+    width:417px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_line {
+    background-image: url('../系统总体集成方案_files/u118_line.png');
+}
+
+.u118_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:830px;
+    height:3px;
+}
+
+.u118 {
+    position:absolute;
+    left:239px;
+    top:82px;
+    width:830px;
+    height:10px;
+    
+}
+
+.u119_line {
+    background-image: url('../系统总体集成方案_files/u119_line.png');
+}
+
+.u119_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:253px;
+}
+
+.u119 {
+    position:absolute;
+    left:233px;
+    top:88px;
+    width:10px;
+    height:253px;
+    
+}
+
+.u120_line {
+    background-image: url('../系统总体集成方案_files/u120_line.png');
+}
+
+.u120_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:830px;
+    height:3px;
+}
+
+.u120 {
+    position:absolute;
+    left:239px;
+    top:336px;
+    width:830px;
+    height:10px;
+    
+}
+
+.u121_line {
+    background-image: url('../系统总体集成方案_files/u121_line.png');
+}
+
+.u121_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:253px;
+}
+
+.u121 {
+    position:absolute;
+    left:1068px;
+    top:88px;
+    width:10px;
+    height:253px;
+    
+}
+
+.u122_normal {
+    background-image: url('../系统总体集成方案_files/u2_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:686px;
+    top:410px;
+    width:26px;
+    height:33px;
+}
+
+#u122_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:33px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:666px;
+    top:443px;
+    width:67px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125c0 {
+    background-image: url('../系统总体集成方案_files/u125c0.png');
+}
+
+.u125c0 {
+    position:absolute;
+    left:627px;
+    top:464px;
+    width:81px;
+    height:20px;
+}
+
+.u125c1 {
+    background-image: url('../系统总体集成方案_files/u125c1.png');
+}
+
+.u125c1 {
+    position:absolute;
+    left:688px;
+    top:433px;
+    width:20px;
+    height:51px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

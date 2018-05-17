@@ -1,0 +1,1036 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:499px;
+    top:93px;
+    width:140px;
+    height:45px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:51px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:490px;
+    top:166px;
+    width:174px;
+    height:45px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:51px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:170px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:524px;
+    top:238px;
+    width:101px;
+    height:45px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:51px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:449px;
+    top:317px;
+    width:101px;
+    height:35px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u6_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:586px;
+    top:317px;
+    width:101px;
+    height:35px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:426px;
+    top:385px;
+    width:150px;
+    height:36px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:42px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:489px;
+    top:579px;
+    width:201px;
+    height:29px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:207px;
+    height:35px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:197px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_end {
+    background-image: url('../三类人员证书延期申报流程_files/u14_end.png');
+}
+
+.u14_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u14_line {
+    background-image: url('../三类人员证书延期申报流程_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u14 {
+    position:absolute;
+    left:564px;
+    top:138px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u15_end {
+    background-image: url('../三类人员证书延期申报流程_files/u15_end.png');
+}
+
+.u15_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u15_line {
+    background-image: url('../三类人员证书延期申报流程_files/u15_line.png');
+}
+
+.u15_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u15 {
+    position:absolute;
+    left:564px;
+    top:211px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u16_line {
+    background-image: url('../三类人员证书延期申报流程_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:147px;
+    height:3px;
+}
+
+.u16 {
+    position:absolute;
+    left:493px;
+    top:294px;
+    width:147px;
+    height:10px;
+    
+}
+
+.u17_end {
+    background-image: url('../三类人员证书延期申报流程_files/u17_end.png');
+}
+
+.u17_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u17_line {
+    background-image: url('../三类人员证书延期申报流程_files/u17_line.png');
+}
+
+.u17_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u17 {
+    position:absolute;
+    left:565px;
+    top:283px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u18_end {
+    background-image: url('../三类人员证书延期申报流程_files/u18_end.png');
+}
+
+.u18_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u18_line {
+    background-image: url('../三类人员证书延期申报流程_files/u18_line.png');
+}
+
+.u18_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u18 {
+    position:absolute;
+    left:635px;
+    top:300px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u19_end {
+    background-image: url('../三类人员证书延期申报流程_files/u19_end.png');
+}
+
+.u19_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u19_line {
+    background-image: url('../三类人员证书延期申报流程_files/u19_line.png');
+}
+
+.u19_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u19 {
+    position:absolute;
+    left:488px;
+    top:300px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u20_end {
+    background-image: url('../三类人员证书延期申报流程_files/u20_end.png');
+}
+
+.u20_end {
+    position:absolute;
+    left:-5px;
+    top:23px;
+    width:20px;
+    height:14px;
+}
+
+.u20_line {
+    background-image: url('../三类人员证书延期申报流程_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:32px;
+}
+
+.u20 {
+    position:absolute;
+    left:489px;
+    top:353px;
+    width:10px;
+    height:32px;
+    
+}
+
+.u21_end {
+    background-image: url('../三类人员证书延期申报流程_files/u21_end.png');
+}
+
+.u21_end {
+    position:absolute;
+    left:-5px;
+    top:17px;
+    width:20px;
+    height:14px;
+}
+
+.u21_line {
+    background-image: url('../三类人员证书延期申报流程_files/u21_line.png');
+}
+
+.u21_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:26px;
+}
+
+.u21 {
+    position:absolute;
+    left:490px;
+    top:421px;
+    width:10px;
+    height:26px;
+    
+}
+
+.u22 {
+    position:absolute;
+    left:426px;
+    top:651px;
+    width:279px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u6_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:377px;
+    top:470px;
+    width:101px;
+    height:35px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u6_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:514px;
+    top:470px;
+    width:101px;
+    height:35px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_line {
+    background-image: url('../三类人员证书延期申报流程_files/u27_line.png');
+}
+
+.u27_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:147px;
+    height:3px;
+}
+
+.u27 {
+    position:absolute;
+    left:421px;
+    top:447px;
+    width:147px;
+    height:10px;
+    
+}
+
+.u28_end {
+    background-image: url('../三类人员证书延期申报流程_files/u28_end.png');
+}
+
+.u28_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u28_line {
+    background-image: url('../三类人员证书延期申报流程_files/u28_line.png');
+}
+
+.u28_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u28 {
+    position:absolute;
+    left:563px;
+    top:453px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u29_end {
+    background-image: url('../三类人员证书延期申报流程_files/u29_end.png');
+}
+
+.u29_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u29_line {
+    background-image: url('../三类人员证书延期申报流程_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u29 {
+    position:absolute;
+    left:416px;
+    top:453px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u30_end {
+    background-image: url('../三类人员证书延期申报流程_files/u30_end.png');
+}
+
+.u30_end {
+    position:absolute;
+    left:-5px;
+    top:61px;
+    width:20px;
+    height:14px;
+}
+
+.u30_line {
+    background-image: url('../三类人员证书延期申报流程_files/u30_line.png');
+}
+
+.u30_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:70px;
+}
+
+.u30 {
+    position:absolute;
+    left:564px;
+    top:505px;
+    width:10px;
+    height:70px;
+    
+}
+
+.u31_line {
+    background-image: url('../三类人员证书延期申报流程_files/u31_line.png');
+}
+
+.u31_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:15px;
+    height:3px;
+}
+
+.u31 {
+    position:absolute;
+    left:362px;
+    top:482px;
+    width:15px;
+    height:10px;
+    
+}
+
+.u32_line {
+    background-image: url('../三类人员证书延期申报流程_files/u32_line.png');
+}
+
+.u32_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:223px;
+}
+
+.u32 {
+    position:absolute;
+    left:357px;
+    top:264px;
+    width:10px;
+    height:223px;
+    
+}
+
+.u33_end {
+    background-image: url('../三类人员证书延期申报流程_files/u33_end.png');
+}
+
+.u33_end {
+    position:absolute;
+    left:146px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u33_line {
+    background-image: url('../三类人员证书延期申报流程_files/u33_line.png');
+}
+
+.u33_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:155px;
+    height:3px;
+}
+
+.u33 {
+    position:absolute;
+    left:271px;
+    top:-46px;
+    width:155px;
+    height:10px;
+    
+}
+
+.u34_end {
+    background-image: url('../三类人员证书延期申报流程_files/u34_end.png');
+}
+
+.u34_end {
+    position:absolute;
+    left:153px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u34_line {
+    background-image: url('../三类人员证书延期申报流程_files/u34_line.png');
+}
+
+.u34_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:162px;
+    height:3px;
+}
+
+.u34 {
+    position:absolute;
+    left:362px;
+    top:259px;
+    width:162px;
+    height:10px;
+    
+}
+
+.u35_line {
+    background-image: url('../三类人员证书延期申报流程_files/u35_line.png');
+}
+
+.u35_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:143px;
+}
+
+.u35 {
+    position:absolute;
+    left:717px;
+    top:192px;
+    width:10px;
+    height:143px;
+    
+}
+
+.u36_line {
+    background-image: url('../三类人员证书延期申报流程_files/u36_line.png');
+}
+
+.u36_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:34px;
+    height:3px;
+}
+
+.u36 {
+    position:absolute;
+    left:687px;
+    top:330px;
+    width:34px;
+    height:10px;
+    
+}
+
+.u37_start {
+    background-image: url('../三类人员证书延期申报流程_files/u37_start.png');
+}
+
+.u37_start {
+    position:absolute;
+    left:-4px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u37_line {
+    background-image: url('../三类人员证书延期申报流程_files/u37_line.png');
+}
+
+.u37_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:57px;
+    height:3px;
+}
+
+.u37 {
+    position:absolute;
+    left:664px;
+    top:186px;
+    width:57px;
+    height:10px;
+    
+}
+
+.u38_normal {
+    background-image: url('../三类人员证书延期申报流程_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:324px;
+    top:353px;
+    width:75px;
+    height:68px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:74px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:26px;
+    width:71px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_line {
+    background-image: url('../三类人员证书延期申报流程_files/u40_line.png');
+}
+
+.u40_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:19px;
+    height:3px;
+}
+
+.u40 {
+    position:absolute;
+    left:305px;
+    top:381px;
+    width:19px;
+    height:10px;
+    
+}
+
+.u41_line {
+    background-image: url('../三类人员证书延期申报流程_files/u41_line.png');
+}
+
+.u41_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:199px;
+}
+
+.u41 {
+    position:absolute;
+    left:300px;
+    top:186px;
+    width:10px;
+    height:199px;
+    
+}
+
+.u42_end {
+    background-image: url('../三类人员证书延期申报流程_files/u42_end.png');
+}
+
+.u42_end {
+    position:absolute;
+    left:177px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u42_line {
+    background-image: url('../三类人员证书延期申报流程_files/u42_line.png');
+}
+
+.u42_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:186px;
+    height:3px;
+}
+
+.u42 {
+    position:absolute;
+    left:304px;
+    top:181px;
+    width:186px;
+    height:10px;
+    
+}
+
+.u43 {
+    position:absolute;
+    left:369px;
+    top:268px;
+    width:49px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:324px;
+    top:169px;
+    width:49px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

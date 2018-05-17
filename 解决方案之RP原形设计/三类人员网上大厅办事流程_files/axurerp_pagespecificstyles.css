@@ -1,0 +1,834 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:90px;
+    top:238px;
+    width:78px;
+    height:47px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:53px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:243px;
+    top:245px;
+    width:104px;
+    height:32px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:110px;
+    height:38px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:618px;
+    top:246px;
+    width:92px;
+    height:32px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:38px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:804px;
+    top:246px;
+    width:98px;
+    height:32px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:38px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:983px;
+    top:246px;
+    width:87px;
+    height:32px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:93px;
+    height:38px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:83px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u0_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:1123px;
+    top:238px;
+    width:78px;
+    height:47px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:53px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:232px;
+    top:306px;
+    width:136px;
+    height:165px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:236px;
+    top:316px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:236px;
+    top:340px;
+    width:129px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:236px;
+    top:372px;
+    width:129px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:237px;
+    top:408px;
+    width:129px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u12_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:597px;
+    top:307px;
+    width:136px;
+    height:165px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:601px;
+    top:317px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:601px;
+    top:345px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:601px;
+    top:373px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u12_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:795px;
+    top:306px;
+    width:136px;
+    height:165px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:799px;
+    top:316px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:799px;
+    top:344px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:799px;
+    top:372px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u12_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:970px;
+    top:306px;
+    width:136px;
+    height:165px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:974px;
+    top:316px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:974px;
+    top:343px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32c0 {
+    background-image: url('../三类人员网上大厅办事流程_files/u32c0.png');
+}
+
+.u32c0 {
+    position:absolute;
+    left:164px;
+    top:252px;
+    width:79px;
+    height:20px;
+}
+
+.u32c1 {
+    background-image: url('../三类人员网上大厅办事流程_files/u32c1.png');
+}
+
+.u32c1 {
+    position:absolute;
+    left:223px;
+    top:251px;
+    width:20px;
+    height:21px;
+}
+
+.u32c2 {
+    background-image: url('../三类人员网上大厅办事流程_files/u32c2.png');
+}
+
+.u32c2 {
+    position:absolute;
+    left:223px;
+    top:251px;
+    width:24px;
+    height:20px;
+}
+
+.u33 {
+    position:absolute;
+    left:-12px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34c0 {
+    background-image: url('../三类人员网上大厅办事流程_files/u34c0.png');
+}
+
+.u34c0 {
+    position:absolute;
+    left:337px;
+    top:257px;
+    width:20px;
+    height:15px;
+}
+
+.u34c1 {
+    background-image: url('../三类人员网上大厅办事流程_files/u34c1.png');
+}
+
+.u34c1 {
+    position:absolute;
+    left:337px;
+    top:252px;
+    width:103px;
+    height:20px;
+}
+
+.u35 {
+    position:absolute;
+    left:-6px;
+    top:-7px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36c0 {
+    background-image: url('../三类人员网上大厅办事流程_files/u36c0.png');
+}
+
+.u36c0 {
+    position:absolute;
+    left:700px;
+    top:252px;
+    width:112px;
+    height:20px;
+}
+
+.u37 {
+    position:absolute;
+    left:-1px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38c0 {
+    background-image: url('../三类人员网上大厅办事流程_files/u38c0.png');
+}
+
+.u38c0 {
+    position:absolute;
+    left:898px;
+    top:252px;
+    width:95px;
+    height:20px;
+}
+
+.u39 {
+    position:absolute;
+    left:-10px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40c0 {
+    background-image: url('../三类人员网上大厅办事流程_files/u40c0.png');
+}
+
+.u40c0 {
+    position:absolute;
+    left:1068px;
+    top:252px;
+    width:65px;
+    height:20px;
+}
+
+.u41 {
+    position:absolute;
+    left:-24px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:618px;
+    top:509px;
+    width:269px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u4_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:436px;
+    top:246px;
+    width:92px;
+    height:32px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:38px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../三类人员网上大厅办事流程_files/u12_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:415px;
+    top:307px;
+    width:136px;
+    height:165px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:419px;
+    top:317px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:419px;
+    top:345px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49c0 {
+    background-image: url('../三类人员网上大厅办事流程_files/u49c0.png');
+}
+
+.u49c0 {
+    position:absolute;
+    left:527px;
+    top:252px;
+    width:101px;
+    height:20px;
+}
+
+.u50 {
+    position:absolute;
+    left:-6px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
