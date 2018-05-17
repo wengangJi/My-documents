@@ -1,0 +1,1967 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../系统总体设计方案_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:75px;
+    top:42px;
+    width:54px;
+    height:605px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:54px;
+    height:605px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:294px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../系统总体设计方案_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:660px;
+    top:45px;
+    width:53px;
+    height:603px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:53px;
+    height:603px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:294px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../系统总体设计方案_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:568px;
+    top:49px;
+    width:86px;
+    height:593px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:92px;
+    height:599px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:288px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../系统总体设计方案_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:570px;
+    top:50px;
+    width:84px;
+    height:33px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:84px;
+    height:33px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../系统总体设计方案_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:139px;
+    top:49px;
+    width:84px;
+    height:29px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:35px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../系统总体设计方案_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:233px;
+    top:49px;
+    width:76px;
+    height:29px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:82px;
+    height:35px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:72px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../系统总体设计方案_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:322px;
+    top:49px;
+    width:74px;
+    height:29px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:80px;
+    height:35px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:70px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../系统总体设计方案_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:407px;
+    top:49px;
+    width:63px;
+    height:29px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:35px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../系统总体设计方案_files/u14_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:480px;
+    top:49px;
+    width:63px;
+    height:29px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:35px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../系统总体设计方案_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:139px;
+    top:95px;
+    width:404px;
+    height:94px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:410px;
+    height:100px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:400px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:153px;
+    top:127px;
+    width:32px;
+    height:57px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:195px;
+    top:127px;
+    width:32px;
+    height:57px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:237px;
+    top:127px;
+    width:32px;
+    height:57px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:279px;
+    top:127px;
+    width:32px;
+    height:57px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:321px;
+    top:127px;
+    width:32px;
+    height:57px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:363px;
+    top:128px;
+    width:32px;
+    height:57px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:405px;
+    top:128px;
+    width:32px;
+    height:57px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:447px;
+    top:128px;
+    width:32px;
+    height:57px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:489px;
+    top:128px;
+    width:32px;
+    height:57px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_line {
+    background-image: url('../系统总体设计方案_files/u38_line.png');
+}
+
+.u38_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:425px;
+    height:3px;
+}
+
+.u38 {
+    position:absolute;
+    left:143px;
+    top:84px;
+    width:425px;
+    height:10px;
+    
+}
+
+.u39 {
+    position:absolute;
+    left:279px;
+    top:102px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_line {
+    background-image: url('../系统总体设计方案_files/u40_line.png');
+}
+
+.u40_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:425px;
+    height:3px;
+}
+
+.u40 {
+    position:absolute;
+    left:142px;
+    top:199px;
+    width:425px;
+    height:10px;
+    
+}
+
+.u41_normal {
+    background-image: url('../系统总体设计方案_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:138px;
+    top:211px;
+    width:404px;
+    height:94px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:410px;
+    height:100px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:400px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:168px;
+    top:222px;
+    width:32px;
+    height:57px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:210px;
+    top:222px;
+    width:32px;
+    height:57px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:252px;
+    top:222px;
+    width:32px;
+    height:57px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:294px;
+    top:222px;
+    width:32px;
+    height:57px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:336px;
+    top:222px;
+    width:32px;
+    height:57px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:306px;
+    top:284px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_line {
+    background-image: url('../系统总体设计方案_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:425px;
+    height:3px;
+}
+
+.u54 {
+    position:absolute;
+    left:142px;
+    top:315px;
+    width:425px;
+    height:10px;
+    
+}
+
+.u55_normal {
+    background-image: url('../系统总体设计方案_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:139px;
+    top:327px;
+    width:404px;
+    height:94px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:410px;
+    height:100px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:400px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../系统总体设计方案_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:169px;
+    top:382px;
+    width:142px;
+    height:23px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:29px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../系统总体设计方案_files/u57_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:331px;
+    top:382px;
+    width:142px;
+    height:23px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:29px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:490px;
+    top:342px;
+    width:32px;
+    height:57px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:308px;
+    top:336px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../系统总体设计方案_files/u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:226px;
+    top:422px;
+    width:244px;
+    height:64px;
+}
+
+#u64_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:244px;
+    height:64px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:240px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_line {
+    background-image: url('../系统总体设计方案_files/u66_line.png');
+}
+
+.u66_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:425px;
+    height:3px;
+}
+
+.u66 {
+    position:absolute;
+    left:143px;
+    top:484px;
+    width:425px;
+    height:10px;
+    
+}
+
+.u67_normal {
+    background-image: url('../系统总体设计方案_files/u67_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:139px;
+    top:496px;
+    width:404px;
+    height:22px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:410px;
+    height:28px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:400px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_line {
+    background-image: url('../系统总体设计方案_files/u69_line.png');
+}
+
+.u69_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:425px;
+    height:3px;
+}
+
+.u69 {
+    position:absolute;
+    left:142px;
+    top:519px;
+    width:425px;
+    height:10px;
+    
+}
+
+.u70_normal {
+    background-image: url('../系统总体设计方案_files/u70_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:153px;
+    top:542px;
+    width:196px;
+    height:22px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:202px;
+    height:28px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:192px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../系统总体设计方案_files/u70_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:154px;
+    top:583px;
+    width:196px;
+    height:22px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:202px;
+    height:28px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:192px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../系统总体设计方案_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:393px;
+    top:535px;
+    width:42px;
+    height:76px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:82px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:38px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:630px;
+    top:158px;
+    width:26px;
+    height:304px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../系统总体设计方案_files/u77_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:580px;
+    top:114px;
+    width:32px;
+    height:71px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:77px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../系统总体设计方案_files/u77_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:580px;
+    top:221px;
+    width:32px;
+    height:71px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:77px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:28px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../系统总体设计方案_files/u77_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:580px;
+    top:332px;
+    width:32px;
+    height:71px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:77px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../系统总体设计方案_files/u77_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:581px;
+    top:424px;
+    width:32px;
+    height:71px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:77px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../系统总体设计方案_files/u77_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:580px;
+    top:538px;
+    width:32px;
+    height:71px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:77px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../系统总体设计方案_files/u87_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:169px;
+    top:79px;
+    width:26px;
+    height:15px;
+}
+
+#u87_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:15px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../系统总体设计方案_files/u87_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:258px;
+    top:79px;
+    width:26px;
+    height:15px;
+}
+
+#u89_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:15px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../系统总体设计方案_files/u87_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:341px;
+    top:79px;
+    width:26px;
+    height:15px;
+}
+
+#u91_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:15px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../系统总体设计方案_files/u87_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:426px;
+    top:79px;
+    width:26px;
+    height:15px;
+}
+
+#u93_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:15px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../系统总体设计方案_files/u87_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:498px;
+    top:79px;
+    width:26px;
+    height:15px;
+}
+
+#u95_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:15px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../系统总体设计方案_files/u97_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:331px;
+    top:191px;
+    width:26px;
+    height:18px;
+}
+
+#u97_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:18px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../系统总体设计方案_files/u97_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:331px;
+    top:308px;
+    width:26px;
+    height:18px;
+}
+
+#u99_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:18px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../系统总体设计方案_files/u101_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:546px;
+    top:363px;
+    width:20px;
+    height:10px;
+}
+
+#u101_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:10px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../系统总体设计方案_files/u101_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:545px;
+    top:249px;
+    width:20px;
+    height:10px;
+}
+
+#u103_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:10px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../系统总体设计方案_files/u101_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:546px;
+    top:137px;
+    width:20px;
+    height:10px;
+}
+
+#u105_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:10px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:172px;
+    top:678px;
+    width:392px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:378px;
+    top:224px;
+    width:32px;
+    height:57px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:28px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../系统总体设计方案_files/u110_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:423px;
+    top:224px;
+    width:44px;
+    height:57px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:50px;
+    height:63px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:40px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../系统总体设计方案_files/u20_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:478px;
+    top:223px;
+    width:32px;
+    height:57px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:63px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:28px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

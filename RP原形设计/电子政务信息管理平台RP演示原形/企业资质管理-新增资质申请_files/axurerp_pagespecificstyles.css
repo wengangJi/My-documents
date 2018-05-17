@@ -1,0 +1,2070 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:43px;
+    top:41px;
+    width:922px;
+    height:27px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:33px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:43px;
+    top:69px;
+    width:922px;
+    height:71px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:77px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:125px;
+    top:88px;
+    width:598px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:710px;
+    top:90px;
+    width:142px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'宋体';
+    font-size: 14px;
+    color:#6B6B6B;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u6_container {
+    position:absolute;
+    left:865px;
+    top:88px;
+    width:54px;
+    height:27px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:54px;
+    height:27px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:761px;
+    top:45px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:797px;
+    top:45px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:42px;
+    top:177px;
+    width:166px;
+    height:607px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:613px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:296px;
+    width:162px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:42px;
+    top:795px;
+    width:928px;
+    height:10px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:934px;
+    height:16px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:924px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:42px;
+    top:807px;
+    width:928px;
+    height:39px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:934px;
+    height:45px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:924px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:131px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_line {
+    background-image: url('../企业资质管理-新增资质申请_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:509px;
+}
+
+.u20 {
+    position:absolute;
+    left:203px;
+    top:205px;
+    width:10px;
+    height:509px;
+    
+}
+
+.u21_line {
+    background-image: url('../企业资质管理-新增资质申请_files/u21_line.png');
+}
+
+.u21_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:762px;
+    height:3px;
+}
+
+.u21 {
+    position:absolute;
+    left:203px;
+    top:172px;
+    width:762px;
+    height:10px;
+    
+}
+
+.u22_line {
+    background-image: url('../企业资质管理-新增资质申请_files/u22_line.png');
+}
+
+.u22_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:613px;
+}
+
+.u22 {
+    position:absolute;
+    left:960px;
+    top:171px;
+    width:10px;
+    height:613px;
+    
+}
+
+.u23_line {
+    background-image: url('../企业资质管理-新增资质申请_files/u23_line.png');
+}
+
+.u23_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:760px;
+    height:3px;
+}
+
+.u23 {
+    position:absolute;
+    left:206px;
+    top:779px;
+    width:760px;
+    height:10px;
+    
+}
+
+.u24_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:745px;
+    top:41px;
+    width:219px;
+    height:22px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:219px;
+    height:22px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:215px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:43px;
+    top:141px;
+    width:922px;
+    height:31px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:928px;
+    height:37px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:918px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:439px;
+    top:149px;
+    width:105px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:101px;
+    top:149px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:888px;
+    top:148px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:811px;
+    top:148px;
+    width:81px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:733px;
+    top:148px;
+    width:81px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:153px;
+    top:149px;
+    width:69px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:332px;
+    top:149px;
+    width:99px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:627px;
+    top:148px;
+    width:96px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:541px;
+    top:142px;
+    width:78px;
+    height:30px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:36px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:74px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:234px;
+    top:149px;
+    width:99px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:46px;
+    top:179px;
+    width:333px;
+    height:605px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:333px;
+    height:605px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:294px;
+    width:329px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:234px;
+    top:230px;
+    width:131px;
+    height:503px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:131px;
+    height:503px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:244px;
+    width:127px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:274px;
+    top:236px;
+    width:85px;
+    height:17px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:91px;
+    height:23px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:234px;
+    top:182px;
+    width:64px;
+    height:28px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:64px;
+    height:28px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:242px;
+    top:191px;
+    width:117px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:276px;
+    top:238px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u51_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:293px;
+    top:257px;
+    width:65px;
+    height:55px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:61px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u51_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:293px;
+    top:336px;
+    width:65px;
+    height:55px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:61px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:293px;
+    top:417px;
+    width:65px;
+    height:133px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:139px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:58px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:293px;
+    top:574px;
+    width:65px;
+    height:99px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:105px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u59_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:274px;
+    top:673px;
+    width:65px;
+    height:67px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:73px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:26px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u45_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:274px;
+    top:317px;
+    width:85px;
+    height:17px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:91px;
+    height:23px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u45_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:275px;
+    top:395px;
+    width:85px;
+    height:17px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:91px;
+    height:23px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u45_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:274px;
+    top:557px;
+    width:85px;
+    height:17px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:91px;
+    height:23px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:288px;
+    top:260px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:288px;
+    top:279px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:289px;
+    top:298px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:275px;
+    top:319px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:289px;
+    top:338px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:289px;
+    top:360px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:290px;
+    top:380px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u45_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:235px;
+    top:395px;
+    width:85px;
+    height:17px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:91px;
+    height:23px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u76_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:232px;
+    top:394px;
+    width:141px;
+    height:20px;
+}
+
+#u76_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:141px;
+    height:20px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:137px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:290px;
+    top:400px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:290px;
+    top:421px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:232px;
+    top:434px;
+    width:134px;
+    height:22px;
+}
+
+#u80_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:134px;
+    height:22px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:130px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:290px;
+    top:459px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:291px;
+    top:480px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:291px;
+    top:499px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:292px;
+    top:518px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:293px;
+    top:539px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87 {
+    position:absolute;
+    left:288px;
+    top:579px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:277px;
+    top:560px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u89_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:228px;
+    top:594px;
+    width:140px;
+    height:19px;
+}
+
+#u89_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:140px;
+    height:19px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:289px;
+    top:618px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u92_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:226px;
+    top:633px;
+    width:137px;
+    height:21px;
+}
+
+#u92_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:137px;
+    height:21px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:133px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:289px;
+    top:660px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u95_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:229px;
+    top:673px;
+    width:145px;
+    height:21px;
+}
+
+#u95_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:21px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u95_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:229px;
+    top:715px;
+    width:145px;
+    height:21px;
+}
+
+#u97_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:21px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u95_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:229px;
+    top:735px;
+    width:145px;
+    height:21px;
+}
+
+#u99_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:21px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u95_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:229px;
+    top:754px;
+    width:145px;
+    height:21px;
+}
+
+#u101_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:21px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
+    position:absolute;
+    left:277px;
+    top:679px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:277px;
+    top:698px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:277px;
+    top:718px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:277px;
+    top:739px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:278px;
+    top:758px;
+    width:82px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u108_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:380px;
+    top:182px;
+    width:581px;
+    height:326px;
+}
+
+#u108_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:581px;
+    height:326px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:155px;
+    width:577px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u110_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:380px;
+    top:182px;
+    width:585px;
+    height:15px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:591px;
+    height:21px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:581px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:607px;
+    top:182px;
+    width:100px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:476px;
+    top:251px;
+    width:53px;
+    height:10px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:16px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115 {
+    position:absolute;
+    left:476px;
+    top:250px;
+    width:68px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u116_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:839px;
+    top:493px;
+    width:111px;
+    height:15px;
+}
+
+#u116_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:111px;
+    height:15px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:107px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u118_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:382px;
+    top:459px;
+    width:578px;
+    height:257px;
+}
+
+#u118_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:578px;
+    height:257px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:120px;
+    width:574px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u120_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:381px;
+    top:513px;
+    width:9px;
+    height:27px;
+}
+
+#u120_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:27px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:470px;
+    top:748px;
+    width:73px;
+    height:21px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:27px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u122_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:572px;
+    top:748px;
+    width:73px;
+    height:21px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:27px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u122_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:671px;
+    top:749px;
+    width:73px;
+    height:21px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:27px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../企业资质管理-新增资质申请_files/u122_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:767px;
+    top:749px;
+    width:73px;
+    height:21px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:27px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

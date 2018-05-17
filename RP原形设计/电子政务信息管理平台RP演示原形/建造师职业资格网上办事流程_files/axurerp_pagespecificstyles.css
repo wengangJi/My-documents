@@ -1,0 +1,676 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:229px;
+    top:253px;
+    width:78px;
+    height:47px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:53px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:382px;
+    top:260px;
+    width:104px;
+    height:32px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:110px;
+    height:38px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:584px;
+    top:260px;
+    width:92px;
+    height:32px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:98px;
+    height:38px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:88px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:770px;
+    top:260px;
+    width:98px;
+    height:32px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:104px;
+    height:38px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:949px;
+    top:260px;
+    width:87px;
+    height:32px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:93px;
+    height:38px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:83px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u0_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:1089px;
+    top:252px;
+    width:78px;
+    height:47px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:53px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:371px;
+    top:321px;
+    width:136px;
+    height:165px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:375px;
+    top:331px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:375px;
+    top:355px;
+    width:129px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:375px;
+    top:387px;
+    width:129px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:376px;
+    top:423px;
+    width:129px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u12_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:563px;
+    top:321px;
+    width:136px;
+    height:165px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:567px;
+    top:331px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:567px;
+    top:359px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:567px;
+    top:387px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u12_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:761px;
+    top:320px;
+    width:136px;
+    height:165px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:765px;
+    top:330px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:765px;
+    top:358px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:765px;
+    top:386px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../建造师职业资格网上办事流程_files/u12_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:936px;
+    top:320px;
+    width:136px;
+    height:165px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:171px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:74px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:940px;
+    top:330px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:940px;
+    top:357px;
+    width:129px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32c0 {
+    background-image: url('../建造师职业资格网上办事流程_files/u32c0.png');
+}
+
+.u32c0 {
+    position:absolute;
+    left:303px;
+    top:266px;
+    width:89px;
+    height:20px;
+}
+
+.u33 {
+    position:absolute;
+    left:-12px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34c0 {
+    background-image: url('../建造师职业资格网上办事流程_files/u34c0.png');
+}
+
+.u34c0 {
+    position:absolute;
+    left:482px;
+    top:266px;
+    width:112px;
+    height:20px;
+}
+
+.u35 {
+    position:absolute;
+    left:-1px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36c0 {
+    background-image: url('../建造师职业资格网上办事流程_files/u36c0.png');
+}
+
+.u36c0 {
+    position:absolute;
+    left:666px;
+    top:266px;
+    width:112px;
+    height:20px;
+}
+
+.u37 {
+    position:absolute;
+    left:-1px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38c0 {
+    background-image: url('../建造师职业资格网上办事流程_files/u38c0.png');
+}
+
+.u38c0 {
+    position:absolute;
+    left:864px;
+    top:266px;
+    width:95px;
+    height:20px;
+}
+
+.u39 {
+    position:absolute;
+    left:-10px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40c0 {
+    background-image: url('../建造师职业资格网上办事流程_files/u40c0.png');
+}
+
+.u40c0 {
+    position:absolute;
+    left:1034px;
+    top:266px;
+    width:65px;
+    height:20px;
+}
+
+.u41 {
+    position:absolute;
+    left:-24px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:584px;
+    top:523px;
+    width:209px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

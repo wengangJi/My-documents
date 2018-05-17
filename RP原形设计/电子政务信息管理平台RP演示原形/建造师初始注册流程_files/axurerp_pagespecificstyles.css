@@ -1,0 +1,1952 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../建造师初始注册流程_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:490px;
+    top:166px;
+    width:174px;
+    height:45px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:51px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../建造师初始注册流程_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:524px;
+    top:238px;
+    width:101px;
+    height:45px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:51px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:449px;
+    top:317px;
+    width:101px;
+    height:35px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:586px;
+    top:317px;
+    width:101px;
+    height:35px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_end {
+    background-image: url('../建造师初始注册流程_files/u8_end.png');
+}
+
+.u8_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u8_line {
+    background-image: url('../建造师初始注册流程_files/u8_line.png');
+}
+
+.u8_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u8 {
+    position:absolute;
+    left:564px;
+    top:211px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u9_line {
+    background-image: url('../建造师初始注册流程_files/u9_line.png');
+}
+
+.u9_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:147px;
+    height:3px;
+}
+
+.u9 {
+    position:absolute;
+    left:493px;
+    top:294px;
+    width:147px;
+    height:10px;
+    
+}
+
+.u10_end {
+    background-image: url('../建造师初始注册流程_files/u10_end.png');
+}
+
+.u10_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u10_line {
+    background-image: url('../建造师初始注册流程_files/u10_line.png');
+}
+
+.u10_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u10 {
+    position:absolute;
+    left:565px;
+    top:283px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u11_end {
+    background-image: url('../建造师初始注册流程_files/u11_end.png');
+}
+
+.u11_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u11_line {
+    background-image: url('../建造师初始注册流程_files/u11_line.png');
+}
+
+.u11_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u11 {
+    position:absolute;
+    left:635px;
+    top:300px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u12_end {
+    background-image: url('../建造师初始注册流程_files/u12_end.png');
+}
+
+.u12_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u12_line {
+    background-image: url('../建造师初始注册流程_files/u12_line.png');
+}
+
+.u12_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u12 {
+    position:absolute;
+    left:488px;
+    top:300px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u13_end {
+    background-image: url('../建造师初始注册流程_files/u13_end.png');
+}
+
+.u13_end {
+    position:absolute;
+    left:-5px;
+    top:23px;
+    width:20px;
+    height:14px;
+}
+
+.u13_line {
+    background-image: url('../建造师初始注册流程_files/u13_line.png');
+}
+
+.u13_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:32px;
+}
+
+.u13 {
+    position:absolute;
+    left:489px;
+    top:353px;
+    width:10px;
+    height:32px;
+    
+}
+
+.u14_end {
+    background-image: url('../建造师初始注册流程_files/u14_end.png');
+}
+
+.u14_end {
+    position:absolute;
+    left:-5px;
+    top:17px;
+    width:20px;
+    height:14px;
+}
+
+.u14_line {
+    background-image: url('../建造师初始注册流程_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:26px;
+}
+
+.u14 {
+    position:absolute;
+    left:489px;
+    top:424px;
+    width:10px;
+    height:26px;
+    
+}
+
+.u15_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:379px;
+    top:601px;
+    width:101px;
+    height:35px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:518px;
+    top:601px;
+    width:101px;
+    height:35px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_line {
+    background-image: url('../建造师初始注册流程_files/u19_line.png');
+}
+
+.u19_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:147px;
+    height:3px;
+}
+
+.u19 {
+    position:absolute;
+    left:423px;
+    top:579px;
+    width:147px;
+    height:10px;
+    
+}
+
+.u20_end {
+    background-image: url('../建造师初始注册流程_files/u20_end.png');
+}
+
+.u20_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u20_line {
+    background-image: url('../建造师初始注册流程_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u20 {
+    position:absolute;
+    left:565px;
+    top:584px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u21_end {
+    background-image: url('../建造师初始注册流程_files/u21_end.png');
+}
+
+.u21_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u21_line {
+    background-image: url('../建造师初始注册流程_files/u21_line.png');
+}
+
+.u21_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u21 {
+    position:absolute;
+    left:418px;
+    top:584px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u22_end {
+    background-image: url('../建造师初始注册流程_files/u22_end.png');
+}
+
+.u22_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u22_line {
+    background-image: url('../建造师初始注册流程_files/u22_line.png');
+}
+
+.u22_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u22 {
+    position:absolute;
+    left:566px;
+    top:636px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u23_line {
+    background-image: url('../建造师初始注册流程_files/u23_line.png');
+}
+
+.u23_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:15px;
+    height:3px;
+}
+
+.u23 {
+    position:absolute;
+    left:363px;
+    top:611px;
+    width:15px;
+    height:10px;
+    
+}
+
+.u24_line {
+    background-image: url('../建造师初始注册流程_files/u24_line.png');
+}
+
+.u24_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:352px;
+}
+
+.u24 {
+    position:absolute;
+    left:357px;
+    top:264px;
+    width:10px;
+    height:352px;
+    
+}
+
+.u25_end {
+    background-image: url('../建造师初始注册流程_files/u25_end.png');
+}
+
+.u25_end {
+    position:absolute;
+    left:153px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u25_line {
+    background-image: url('../建造师初始注册流程_files/u25_line.png');
+}
+
+.u25_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:162px;
+    height:3px;
+}
+
+.u25 {
+    position:absolute;
+    left:362px;
+    top:259px;
+    width:162px;
+    height:10px;
+    
+}
+
+.u26_line {
+    background-image: url('../建造师初始注册流程_files/u26_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:143px;
+}
+
+.u26 {
+    position:absolute;
+    left:717px;
+    top:192px;
+    width:10px;
+    height:143px;
+    
+}
+
+.u27_line {
+    background-image: url('../建造师初始注册流程_files/u27_line.png');
+}
+
+.u27_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:34px;
+    height:3px;
+}
+
+.u27 {
+    position:absolute;
+    left:687px;
+    top:330px;
+    width:34px;
+    height:10px;
+    
+}
+
+.u28_start {
+    background-image: url('../建造师初始注册流程_files/u28_start.png');
+}
+
+.u28_start {
+    position:absolute;
+    left:-4px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u28_line {
+    background-image: url('../建造师初始注册流程_files/u28_line.png');
+}
+
+.u28_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:57px;
+    height:3px;
+}
+
+.u28 {
+    position:absolute;
+    left:664px;
+    top:186px;
+    width:57px;
+    height:10px;
+    
+}
+
+.u29_normal {
+    background-image: url('../建造师初始注册流程_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:324px;
+    top:353px;
+    width:75px;
+    height:68px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:74px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:26px;
+    width:71px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_line {
+    background-image: url('../建造师初始注册流程_files/u31_line.png');
+}
+
+.u31_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:19px;
+    height:3px;
+}
+
+.u31 {
+    position:absolute;
+    left:305px;
+    top:381px;
+    width:19px;
+    height:10px;
+    
+}
+
+.u32_line {
+    background-image: url('../建造师初始注册流程_files/u32_line.png');
+}
+
+.u32_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:199px;
+}
+
+.u32 {
+    position:absolute;
+    left:300px;
+    top:186px;
+    width:10px;
+    height:199px;
+    
+}
+
+.u33_end {
+    background-image: url('../建造师初始注册流程_files/u33_end.png');
+}
+
+.u33_end {
+    position:absolute;
+    left:177px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u33_line {
+    background-image: url('../建造师初始注册流程_files/u33_line.png');
+}
+
+.u33_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:186px;
+    height:3px;
+}
+
+.u33 {
+    position:absolute;
+    left:304px;
+    top:181px;
+    width:186px;
+    height:10px;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:369px;
+    top:268px;
+    width:49px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:324px;
+    top:169px;
+    width:49px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../建造师初始注册流程_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:443px;
+    top:388px;
+    width:105px;
+    height:36px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:42px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:101px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../建造师初始注册流程_files/u36_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:443px;
+    top:452px;
+    width:105px;
+    height:36px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:42px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../建造师初始注册流程_files/u36_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:444px;
+    top:517px;
+    width:105px;
+    height:36px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:42px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:101px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_end {
+    background-image: url('../建造师初始注册流程_files/u42_end.png');
+}
+
+.u42_end {
+    position:absolute;
+    left:-5px;
+    top:17px;
+    width:20px;
+    height:14px;
+}
+
+.u42_line {
+    background-image: url('../建造师初始注册流程_files/u42_line.png');
+}
+
+.u42_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:26px;
+}
+
+.u42 {
+    position:absolute;
+    left:489px;
+    top:489px;
+    width:10px;
+    height:26px;
+    
+}
+
+.u43_end {
+    background-image: url('../建造师初始注册流程_files/u43_end.png');
+}
+
+.u43_end {
+    position:absolute;
+    left:-5px;
+    top:17px;
+    width:20px;
+    height:14px;
+}
+
+.u43_line {
+    background-image: url('../建造师初始注册流程_files/u43_line.png');
+}
+
+.u43_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:26px;
+}
+
+.u43 {
+    position:absolute;
+    left:489px;
+    top:555px;
+    width:10px;
+    height:26px;
+    
+}
+
+.u44_normal {
+    background-image: url('../建造师初始注册流程_files/u36_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:518px;
+    top:664px;
+    width:105px;
+    height:36px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:42px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../建造师初始注册流程_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:532px;
+    top:731px;
+    width:78px;
+    height:68px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:84px;
+    height:74px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:74px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_end {
+    background-image: url('../建造师初始注册流程_files/u48_end.png');
+}
+
+.u48_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u48_line {
+    background-image: url('../建造师初始注册流程_files/u48_line.png');
+}
+
+.u48_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u48 {
+    position:absolute;
+    left:566px;
+    top:700px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u49_end {
+    background-image: url('../建造师初始注册流程_files/u49_end.png');
+}
+
+.u49_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u49_line {
+    background-image: url('../建造师初始注册流程_files/u49_line.png');
+}
+
+.u49_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u49 {
+    position:absolute;
+    left:566px;
+    top:799px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u50 {
+    position:absolute;
+    left:727px;
+    top:219px;
+    width:10px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:539px;
+    top:807px;
+    width:29px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../建造师初始注册流程_files/u36_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:521px;
+    top:828px;
+    width:105px;
+    height:36px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:42px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_end {
+    background-image: url('../建造师初始注册流程_files/u54_end.png');
+}
+
+.u54_end {
+    position:absolute;
+    left:54px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u54_line {
+    background-image: url('../建造师初始注册流程_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:63px;
+    height:3px;
+}
+
+.u54 {
+    position:absolute;
+    left:610px;
+    top:760px;
+    width:63px;
+    height:10px;
+    
+}
+
+.u55_normal {
+    background-image: url('../建造师初始注册流程_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:675px;
+    top:747px;
+    width:97px;
+    height:36px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:42px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../建造师初始注册流程_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:512px;
+    top:895px;
+    width:125px;
+    height:36px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:42px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_end {
+    background-image: url('../建造师初始注册流程_files/u59_end.png');
+}
+
+.u59_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u59_line {
+    background-image: url('../建造师初始注册流程_files/u59_line.png');
+}
+
+.u59_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u59 {
+    position:absolute;
+    left:566px;
+    top:865px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u60 {
+    position:absolute;
+    left:627px;
+    top:748px;
+    width:29px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:460px;
+    top:978px;
+    width:101px;
+    height:35px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:599px;
+    top:978px;
+    width:101px;
+    height:35px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_line {
+    background-image: url('../建造师初始注册流程_files/u65_line.png');
+}
+
+.u65_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:147px;
+    height:3px;
+}
+
+.u65 {
+    position:absolute;
+    left:504px;
+    top:956px;
+    width:147px;
+    height:10px;
+    
+}
+
+.u66_end {
+    background-image: url('../建造师初始注册流程_files/u66_end.png');
+}
+
+.u66_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u66_line {
+    background-image: url('../建造师初始注册流程_files/u66_line.png');
+}
+
+.u66_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u66 {
+    position:absolute;
+    left:647px;
+    top:961px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u67_end {
+    background-image: url('../建造师初始注册流程_files/u67_end.png');
+}
+
+.u67_end {
+    position:absolute;
+    left:-5px;
+    top:5px;
+    width:20px;
+    height:14px;
+}
+
+.u67_line {
+    background-image: url('../建造师初始注册流程_files/u67_line.png');
+}
+
+.u67_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:14px;
+}
+
+.u67 {
+    position:absolute;
+    left:499px;
+    top:961px;
+    width:10px;
+    height:14px;
+    
+}
+
+.u68_end {
+    background-image: url('../建造师初始注册流程_files/u68_end.png');
+}
+
+.u68_end {
+    position:absolute;
+    left:-5px;
+    top:19px;
+    width:20px;
+    height:14px;
+}
+
+.u68_line {
+    background-image: url('../建造师初始注册流程_files/u68_line.png');
+}
+
+.u68_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u68 {
+    position:absolute;
+    left:566px;
+    top:931px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u69_normal {
+    background-image: url('../建造师初始注册流程_files/u36_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:599px;
+    top:1037px;
+    width:105px;
+    height:36px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:42px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../建造师初始注册流程_files/u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:618px;
+    top:1101px;
+    width:67px;
+    height:58px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:73px;
+    height:64px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:63px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_end {
+    background-image: url('../建造师初始注册流程_files/u73_end.png');
+}
+
+.u73_end {
+    position:absolute;
+    left:-5px;
+    top:15px;
+    width:20px;
+    height:14px;
+}
+
+.u73_line {
+    background-image: url('../建造师初始注册流程_files/u73_line.png');
+}
+
+.u73_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:24px;
+}
+
+.u73 {
+    position:absolute;
+    left:646px;
+    top:1013px;
+    width:10px;
+    height:24px;
+    
+}
+
+.u74_end {
+    background-image: url('../建造师初始注册流程_files/u74_end.png');
+}
+
+.u74_end {
+    position:absolute;
+    left:-5px;
+    top:15px;
+    width:20px;
+    height:14px;
+}
+
+.u74_line {
+    background-image: url('../建造师初始注册流程_files/u74_line.png');
+}
+
+.u74_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:24px;
+}
+
+.u74 {
+    position:absolute;
+    left:646px;
+    top:1074px;
+    width:10px;
+    height:24px;
+    
+}
+
+.u75_normal {
+    background-image: url('../建造师初始注册流程_files/u75_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:448px;
+    top:1111px;
+    width:114px;
+    height:36px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:120px;
+    height:42px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:110px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../建造师初始注册流程_files/u4_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:455px;
+    top:1194px;
+    width:101px;
+    height:35px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:41px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_end {
+    background-image: url('../建造师初始注册流程_files/u79_end.png');
+}
+
+.u79_end {
+    position:absolute;
+    left:-5px;
+    top:89px;
+    width:20px;
+    height:14px;
+}
+
+.u79_line {
+    background-image: url('../建造师初始注册流程_files/u79_line.png');
+}
+
+.u79_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:98px;
+}
+
+.u79 {
+    position:absolute;
+    left:499px;
+    top:1013px;
+    width:10px;
+    height:98px;
+    
+}
+
+.u80_end {
+    background-image: url('../建造师初始注册流程_files/u80_end.png');
+}
+
+.u80_end {
+    position:absolute;
+    left:-5px;
+    top:38px;
+    width:20px;
+    height:14px;
+}
+
+.u80_line {
+    background-image: url('../建造师初始注册流程_files/u80_line.png');
+}
+
+.u80_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:47px;
+}
+
+.u80 {
+    position:absolute;
+    left:500px;
+    top:1147px;
+    width:10px;
+    height:47px;
+    
+}
+
+.u81_start {
+    background-image: url('../建造师初始注册流程_files/u81_start.png');
+}
+
+.u81_start {
+    position:absolute;
+    left:-4px;
+    top:-5px;
+    width:14px;
+    height:20px;
+}
+
+.u81_line {
+    background-image: url('../建造师初始注册流程_files/u81_line.png');
+}
+
+.u81_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:56px;
+    height:3px;
+}
+
+.u81 {
+    position:absolute;
+    left:562px;
+    top:1124px;
+    width:56px;
+    height:10px;
+    
+}
+
+.u82 {
+    position:absolute;
+    left:579px;
+    top:1112px;
+    width:29px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_line {
+    background-image: url('../建造师初始注册流程_files/u83_line.png');
+}
+
+.u83_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:35px;
+}
+
+.u83 {
+    position:absolute;
+    left:647px;
+    top:1159px;
+    width:10px;
+    height:35px;
+    
+}
+
+.u84 {
+    position:absolute;
+    left:657px;
+    top:1161px;
+    width:29px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../建造师初始注册流程_files/u75_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:599px;
+    top:1194px;
+    width:114px;
+    height:36px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:120px;
+    height:42px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:110px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87 {
+    position:absolute;
+    left:500px;
+    top:1261px;
+    width:331px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
