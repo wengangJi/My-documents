@@ -18,7 +18,7 @@ Involving in editing “Distributed database architecture and the practice of en
 
 ### Career
 * 2013-Now  Architect/Consultant, [HPE](http://www.hpe.com), China.
-* 2007-2013 Senior Software Architect, [AsiaInfo](http://www.asiainfo.com), China.
+* 2007-2013 Software Architect, [AsiaInfo](http://www.asiainfo.com), China.
 * 2005-2007 Software Engineer, [Cattsoft](http://www.cattsoft.com), China.
 
 ## Contact Me
