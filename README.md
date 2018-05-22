@@ -13,7 +13,8 @@
 * [SkywalkingTest](https://github.com/SkywalkingTest)
 
 ### Open Source Oragnization Member
-* [Spring Cloud中国社区](https://github.com/SpringCloud)
+* [Spring Cloud中国社区](https://github.com/SpringCloud) member
+* [spring-cloud-cm](https://github.com/SpringCloud/spring-cloud-cm) creator
 
 ### Publishing
 Involving in editing “Distributed database architecture and the practice of enterprises”	January, 2016
