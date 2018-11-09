@@ -1,7 +1,7 @@
 Wayne
 ==========
 
-loggo
+<img src="https://github.com/wengangJi/My-documents/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3/icon.png" alt="Wayne logo" height="90px" align="right" />
 
 **wayne**: 总体介绍，概略性描述.
 
