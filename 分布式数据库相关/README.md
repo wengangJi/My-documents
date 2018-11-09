@@ -1,11 +1,10 @@
 Wayne
 ==========
-
-<img src="https://github.com/wengangJi/My-documents/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3/icon.png" alt="Wayne logo" height="180px" align="right" />
+<img src="https://github.com/wengangJi/My-documents/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3/icon.png" alt="Wayne logo" height="100px" align="right" />
 
 **wayne**: 总体介绍，概略性描述.
 
-[![GitHub stars]github start地址
+[![GitHub stars](https://github.com/wengangJi/My-documents/stargazers)](https://github.com/apache/incubator-skywalking)
 [![Twitter Follow] twitter 开源follow
 wayne 其他对外开放地址摘取
 
