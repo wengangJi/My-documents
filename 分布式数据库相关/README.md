@@ -1,22 +1,18 @@
 Wayne
 ==========
 
-<img src="https://skywalkingtest.github.io/page-resources/logo/sw-big-dark-1200.png" alt="Sky Walking logo" height="90px" align="right" />
+loggo
 
-**SkyWalking**: an APM(application performance monitor) system, especially designed for 
-microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures.
+**wayne**: 总体介绍，概略性描述.
 
-[![GitHub stars](https://img.shields.io/github/stars/apache/incubator-skywalking.svg?style=for-the-badge&label=Stars&logo=github)](https://github.com/apache/incubator-skywalking)
-[![Twitter Follow](https://img.shields.io/twitter/follow/asfskywalking.svg?style=for-the-badge&label=Follow&logo=twitter)](https://twitter.com/AsfSkyWalking)
+[![GitHub stars]github start地址
+[![Twitter Follow] twitter 开源follow
+wayne 其他对外开放地址摘取
 
 
-[![Maven Central](https://img.shields.io/maven-central/v/org.apache.skywalking/apache-skywalking-apm-incubating.svg)](http://skywalking.apache.org/downloads/)
-[![Build Status](https://travis-ci.org/apache/incubator-skywalking.svg?branch=master)](https://travis-ci.org/apache/incubator-skywalking)
-[![Join the chat at https://gitter.im/sky-walking/Lobby](https://badges.gitter.im/openskywalking/Lobby.svg)](https://gitter.im/openskywalking/Lobby)
-[![OpenTracing-1.x Badge](https://img.shields.io/badge/OpenTracing--1.x-enabled-blue.svg)](http://opentracing.io)
 
-# Abstract
-**SkyWalking** is an open source APM system, including monitoring, tracing, diagnosing capabilities for distributed system
+# 架构
+**wayne** is an open source APM system, including monitoring, tracing, diagnosing capabilities for distributed system
 in Cloud Native architecture. 
 The core features are following.
 
@@ -30,7 +26,7 @@ The core features are following.
 - Alarm
 
 
-<img src="https://skywalkingtest.github.io/page-resources/6-alpha-overview.png"/>
+架构图
 
 SkyWalking supports to collect telemetry (traces and metrics) data from multiple sources
 and multiple formats, 
