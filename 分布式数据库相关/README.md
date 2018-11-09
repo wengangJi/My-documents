@@ -4,7 +4,7 @@ Wayne
 
 **wayne**: 总体介绍，概略性描述.
 
-[![GitHub stars](https://github.com/wengangJi/My-documents/stargazers)](https://github.com/apache/incubator-skywalking)
+[![GitHub stars](https://github.com/wengangJi/My-documents/stargazers)](https://github.com/wengangJi/My-documents)
 [![Twitter Follow] twitter 开源follow
 wayne 其他对外开放地址摘取
 
