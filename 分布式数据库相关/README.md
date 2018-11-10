@@ -1,4 +1,4 @@
-**wayne**: 可视化多集群Kubernetes一站式管理平台
+**wayne**: 云计算可视化多集群Kubernetes一站式管理平台
 <img src="https://github.com/wengangJi/My-documents/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3/icon.png" alt="Wayne logo" height="100px" weight="300px" align="right" />
 
 
