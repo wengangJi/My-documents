@@ -11,6 +11,7 @@
 
 ### Contributed GitHub Projects
 
+* [Wayne](https://github.com/Qihoo360/wayne)
 * [Mycat](https://github.com/MyCATApache)
 * [Apache SkyWalking](https://github.com/apache/incubator-skywalking)
 * [SkywalkingTest](https://github.com/SkywalkingTest)
