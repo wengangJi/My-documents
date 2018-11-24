@@ -10,7 +10,6 @@
 * [serverless源码分析](https://github.com/wengangJi/My-documents/tree/master/serverless%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 
 ### Contributed GitHub Projects
-* [Wayne](https://github.com/Qihoo360/wayne)
 * [Mycat](https://github.com/MyCATApache)
 * [Apache SkyWalking](https://github.com/apache/incubator-skywalking)
 * [SkywalkingTest](https://github.com/SkywalkingTest)
