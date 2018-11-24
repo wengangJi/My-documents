@@ -23,7 +23,7 @@ Involving in editing “Distributed database architecture and the practice of en
 
 
 ### Career
-* 2018- Now  Senior Consultant, [Deloitte](https://www2.deloitte.com/global/en.html), China.
+* 2018- Now  Technical Specialist, [360](https://www.360.cn/), China.
 * 2013-2018  Architect/Consultant, [HPE](http://www.hpe.com), China.
 * 2007-2013  Software Architect, [AsiaInfo](http://www.asiainfo.com), China.
 * 2005-2007  Software Engineer, [Cattsoft](http://www.cattsoft.com), China.
