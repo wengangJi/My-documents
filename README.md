@@ -13,6 +13,8 @@
 * [Mycat](https://github.com/MyCATApache)
 * [Apache SkyWalking](https://github.com/apache/incubator-skywalking)
 * [SkywalkingTest](https://github.com/SkywalkingTest)
+* [beats](https://github.com/wengangJi/beats)
+* [influx-proxy](https://github.com/wengangJi/influx-proxy)
 
 ### Open Source Oragnization Member
 * [Spring Cloud中国社区](https://github.com/SpringCloud) member
