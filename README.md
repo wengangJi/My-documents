@@ -12,7 +12,7 @@
 ### Contributed GitHub Projects
 * [Mycat](https://github.com/MyCATApache)
 * [Apache SkyWalking](https://github.com/apache/incubator-skywalking)
-* [SkywalkingTest](https://github.com/SkywalkingTest)
+* [SkywalkingTest](https://github.com/SkyAPMTest/collector-integration-testtool)
 * [beats](https://github.com/wengangJi/beats)
 * [influx-proxy](https://github.com/wengangJi/influx-proxy)
 
